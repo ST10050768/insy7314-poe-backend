@@ -28,9 +28,6 @@ jobs:
       - name: Unit Tests
         run: npm test
 
-      - name: Integration Tests (basic placeholder)
-        run: npm run test:integration || echo "No integration tests, skipping"
-
       - name: SonarQube Scan
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
