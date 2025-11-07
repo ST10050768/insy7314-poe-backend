@@ -1,9 +1,9 @@
 # Secure Backend API – INSY7314 POE Part 2
 ## 👤 WebCraft
-Alwande Ngcobo:ST10050768
-Plamedi Minambo: ST10069618
-Troy Krause: ST10248581
-Sibusiso Sikhosana: ST10249733
+- Alwande Ngcobo:ST10050768
+- Plamedi Minambo: ST10069618
+- Troy Krause: ST10248581
+- Sibusiso Sikhosana: ST10249733
 ## 📌 Overview
 This project is a **secure backend REST API** built with **Node.js and Express**.  
 It provides features for **user authentication**, **employee management**, and **transaction processing**, and implements **strong security controls** including HTTPS encryption, input sanitization, rate limiting, and environment-based configuration.
